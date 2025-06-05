@@ -17,9 +17,7 @@ javac src/Main.java
 java src.Main
 ```
 
-## Screenshots
 
-Include relevant screenshots in the `screenshots/` folder.
 
 ## Author
 
